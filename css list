@@ -1,0 +1,2 @@
+display: flex -> 가로로 정렬
+justify-content: space-between -> 컬럼을 최대한 멀리 떨어뜨림
