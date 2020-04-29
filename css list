@@ -1,3 +1,6 @@
 display: flex -> 가로로 정렬
 justify-content: space-between -> 컬럼을 최대한 멀리 떨어뜨림
 font의 컬러는 그냥 color로
+
+1. position fixed 사용시 width 속성 주어야함
+2. width 속성 주게되면 box-sizing : boader box 주어야 박스 크기 일정하게 100%로 유지 가능
