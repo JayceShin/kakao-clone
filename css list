@@ -4,3 +4,4 @@ font의 컬러는 그냥 color로
 
 1. position fixed 사용시 width 속성 주어야함
 2. width 속성 주게되면 box-sizing : boader box 주어야 박스 크기 일정하게 100%로 유지 가능
+3. .class1.class2 붙여쓰면 이 클래스를 둘 다 가진 element 들에게 적용한다는 의미이다. 따로쓰면 class1 안에 있는 class2에게만 적용
