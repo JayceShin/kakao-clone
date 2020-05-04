@@ -2,6 +2,11 @@ display: flex -> 가로로 정렬
 justify-content: space-between -> 컬럼을 최대한 멀리 떨어뜨림
 font의 컬러는 그냥 color로
 
+* font 찾을 때는 google fonts
+
 1. position fixed 사용시 width 속성 주어야함
 2. width 속성 주게되면 box-sizing : boader box 주어야 박스 크기 일정하게 100%로 유지 가능
 3. .class1.class2 붙여쓰면 이 클래스를 둘 다 가진 element 들에게 적용한다는 의미이다. 따로쓰면 class1 안에 있는 class2에게만 적용
+4. flex-direction CSS 속성은 플렉스 컨테이너 내의 아이템을 배치할 때 사용함. column - block, row - inline
+5. position fixed가 적용된 container에 가운데 정렬하는 법 margin: 0 auto; left: 0; right: 0;
+6. text는 span 안에 있어야 한다.
